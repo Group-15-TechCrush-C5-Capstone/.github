@@ -14,7 +14,7 @@ owners track customers, manage leads, and close more deals.
 
 No technical training needed. Add a customer in 30 seconds.
 
-🔗 **[View the BizPad Repository](https://github.com/samuelola-dev/techcrush-g15-bizpal)**
+🔗 **[View the BizPad Repository]([https://github.com/samuelola-dev/techcrush-g15-bizpal](https://github.com/Group-15-TechCrush-C5-Capstone/bizpad-backend))**
 
 ---
 
