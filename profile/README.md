@@ -7,14 +7,14 @@ This is our capstone project organisation — built, designed, and shipped in 4 
 
 ---
 
-## 🚀 Our Product — BizPad (Work in Progress)
+## 🚀 Our Product — BizPal (Work in Progress)
 
-**BizPad** is a simple CRM web and mobile app that helps Nigerian small business 
+**BizPal** is a simple CRM web and mobile app that helps Nigerian small business 
 owners track customers, manage leads, and close more deals.
 
 No technical training needed. Add a customer in 30 seconds.
 
-🔗 **[View the BizPad Repository](https://github.com/samuelola-dev/techcrush-g15-bizpad)**
+🔗 **[View the BizPad Repository](https://github.com/samuelola-dev/techcrush-g15-bizpal)**
 
 ---
 
